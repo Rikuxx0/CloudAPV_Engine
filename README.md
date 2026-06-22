@@ -1,4 +1,6 @@
-# AttackRoute_Scanner
+# CloudAPV Engine (Cloud Attack Path Validation Engine)
+
+下記はAttackRoute_Scannerの仕様です。実装後、変更いたします。
 
 本ツールは、Draw.ioで定義されたシステム構成図、Nuclei/Niktoによる脆弱性診断結果、および手動マッピング情報を自動で統合し、潜在的な攻撃経路とシステムリスクを可視化するためのプロトタイプです。
 
